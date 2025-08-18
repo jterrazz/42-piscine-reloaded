@@ -2,4 +2,4 @@
 
 # 42-piscine-reloaded
 
-> Multiple C exercices following the 42 Paris School admission test called "the piscine".
+Core C exercices from the 42 entry piscine.
